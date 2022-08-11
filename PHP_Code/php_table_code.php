@@ -12,7 +12,7 @@
 		}
 		</style>
 </head>
-
+ 
 <body>
 	<hl align = "center">Cafe Manager Table</hl>
 	<div class = "spec">

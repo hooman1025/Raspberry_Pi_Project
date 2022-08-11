@@ -14,7 +14,7 @@ $options = array(
 	'width' => 700, 'height' => 500
 );
 ?>
-
+ 
 <script src="//www.google.com/jsapi"></script>
 <script>
     let data = <?= json_encode($data) ?>;
